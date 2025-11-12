@@ -1,0 +1,4 @@
+"id","username","password_hash","role","created_at"
+1,"john_sales","$2b$10$x/AigX38DRZzSkYsJzcp4egixwEQIB6dLPS7QErVgkTyu1Y3.vC1e","salesperson","2025-11-07 15:12:15.212933"
+2,"sarah_manager","$2b$10$x/AigX38DRZzSkYsJzcp4egixwEQIB6dLPS7QErVgkTyu1Y3.vC1e","manager","2025-11-07 15:12:15.212933"
+3,"mike_sales","$2b$10$x/AigX38DRZzSkYsJzcp4egixwEQIB6dLPS7QErVgkTyu1Y3.vC1e","salesperson","2025-11-07 15:12:15.212933"
